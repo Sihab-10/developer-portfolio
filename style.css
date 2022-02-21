@@ -1,0 +1,33 @@
+body {
+  font-family: "Comforter", cursive;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+}
+.blue-color {
+  color: #6a4bdb;
+}
+section {
+  display: flex;
+}
+.top-banner {
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+}
+.link-button {
+  background-image: linear-gradient(blueviolet, blue);
+  text-decoration: none;
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+.half-width img {
+  width: 80%;
+}
